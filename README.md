@@ -1,6 +1,6 @@
 # WallpaperDownloader
 
-Simple Kotlin app which display wallpaper image and Title of image using Api integration with a Download property. Which uses Retrofit to access Api and RecyclerView to display the api-data. "https://api.slingacademy.com/v1/sample-data/photos" is the dummy api used in this app.
+Simple Kotlin app which display wallpaper image and Title of image using Api integration with a Download property. Which uses Retrofit to access Api and RecyclerView to display the api-data. "https://api.slingacademy.com/v1/sample-data/photos" is the dummy api used in this app.By clicking download button the wallpaper will be downloaded.
 
 
 # ScreenShots
