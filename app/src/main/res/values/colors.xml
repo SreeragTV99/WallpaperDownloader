@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="header_top">#030F39</color>
+    <color name="toolbar_background">#313233</color>
+    <color name="app_background">#2B2B2B</color>
+    <color name="download_button_background">#060</color>
+</resources>

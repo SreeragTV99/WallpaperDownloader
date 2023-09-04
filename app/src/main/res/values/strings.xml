@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Downloader</string>
+    <string name="toolbar_text">WALLPAPERS</string>
+    <string name="download_button_text">Download</string>
+</resources>
