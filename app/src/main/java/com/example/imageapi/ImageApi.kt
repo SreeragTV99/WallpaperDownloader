@@ -5,5 +5,5 @@ import retrofit2.http.GET
 
 interface ImageApi {
     @GET("/v1/sample-data/photos")
-    suspend fun getImages() :Response<ImageList>
+    suspend fun getImages(): Response<ImageList>
 }
